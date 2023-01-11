@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+:root {
+    --main-color : #000000;
+    --background-color : rgb(36, 34, 34);
+    --hover-color: #FF007F;
+    --text-color: #4B0082;
+    --container-color: #2980B9;
+    --color-primary: #0073ff;
+    --color-white: #e9e9e9;
+    --color-black: #141d28;
+    --color-black-1: #212b38;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+}
+
+.line {
+    top: 20px;
+    border: none;
+    height: 5px;
+    background: rgb(0, 255, 179);
+    margin-bottom: 50px;
+}
+
+.navigation{
+    display: block;
+    top: 0;
+}
+
+.navigation h1 {
+    text-align: center;
+    color: red;
+    font-weight: 900;
+    font-size: 40px;
+    background: var(--main-color);
+    padding-top: 1px;
+    height: 100%;
+    width: 100%;
+}
+
+/* Current Chapter */
+.active-chapter {
+    color: #ffee04;
+    background-color: var(--container-color);
+    border: 5px solid rgb(0, 255, 179);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.active-chapter h2 {
+    padding: 5px;
+}
+
+/* Chapter */
+
+.chapter img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+    width: 60%;
+}
+
+/* Pagination */
+
+/* Responsive */
+@media (max-width: 1000px) {
+    .active-chapter h1 {
+        font-size: 25px;
+    }
+
+    .active-chapter h2 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 950px) {
+    .active-chapter {
+        margin-left: 250px;
+        margin-right: 250px;
+    }
+    .active-chapter h1 {
+        font-size: 20px;
+    }
+
+    .active-chapter h2 {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 900px) {
+    .active-chapter {
+        margin-left: 220px;
+        margin-right: 220px;
+    }
+    .active-chapter h1 {
+        font-size: 20px;
+    }
+
+    .active-chapter h2 {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 800px) {
+    .active-chapter {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    .active-chapter h1 {
+        font-size: 20px;
+    }
+
+    .active-chapter h2 {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 600px) {
+    .active-chapter {
+        margin-left: 180px;
+        margin-right: 180px;
+    }
+    .active-chapter h1 {
+        font-size: 20px;
+    }
+
+    .active-chapter h2 {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 550px) {
+    .active-chapter {
+        margin-left: 180px;
+        margin-right: 180px;
+    }
+    .active-chapter h1 {
+        font-size: 18px;
+    }
+
+    .active-chapter h2 {
+        font-size: 12px;
+    }
+}
+
+
+
+@media (max-width: 500px) {
+    .active-chapter {
+        margin-left: 140px;
+        margin-right: 140px;
+    }
+    .active-chapter h1 {
+        font-size: 15px;
+    }
+
+    .active-chapter h2 {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 400px) {
+    .active-chapter {
+        margin-left: 120px;
+        margin-right: 120px;
+    }
+    .active-chapter h1 {
+        font-size: 12px;
+    }
+
+    .active-chapter h2 {
+        font-size: 8px;
+    }
+}

@@ -1,0 +1,73 @@
+<!-- <img src="/images/savita/001.jpg" alt="">
+        <img src="/images/savita/002.jpg" alt="">
+        <img src="/images/savita/003.jpg" alt="">
+        <img src="/images/savita/004.jpg" alt="">
+        <img src="/images/savita/005.jpg" alt="">
+        <img src="/images/savita/006.jpg" alt="">
+        <img src="/images/savita/007.jpg" alt="">
+        <img src="/images/savita/008.jpg" alt="">
+        <img src="/images/savita/009.jpg" alt="">
+        <img src="/images/savita/010.jpg" alt="">
+        <img src="/images/savita/011.jpg" alt="">
+        <img src="/images/savita/012.jpg" alt="">
+        <img src="/images/savita/013.jpg" alt="">
+        <img src="/images/savita/014.jpg" alt="">
+        <img src="/images/savita/015.jpg" alt="">
+        <img src="/images/savita/016.jpg" alt="">
+        <img src="/images/savita/017.jpg" alt="">
+        <img src="/images/savita/018.jpg" alt="">
+        <img src="/images/savita/019.jpg" alt="">
+        <img src="/images/savita/020.jpg" alt="">
+        <img src="/images/savita/021.jpg" alt="">
+        <img src="/images/savita/022.jpg" alt="">
+        <img src="/images/savita/023.jpg" alt="">
+        <img src="/images/savita/024.jpg" alt="">
+        <img src="/images/savita/025.jpg" alt="">
+        <img src="/images/savita/026.jpg" alt="">
+        <img src="/images/savita/027.jpg" alt="">
+        <img src="/images/savita/028.jpg" alt="">
+        <img src="/images/savita/029.jpg" alt="">
+        <img src="/images/savita/030.jpg" alt=""> -->
+
+Fan Series: 10
+Beelzebabe: 10
+Kinara Lane: 2
+Maya: 5
+Miss Rita: 20
+Priya Rao – The Encounter Specialist: 7
+Rooftops: 2
+Saath Kahaniya: 11
+Sherlyn: 3
+The Trap: 3
+Uncle Shom: 2
+Trumpland: 1
+<!---->
+
+Winter in India: 6
+XXX Apartments: 24
+
+Velamma:
+
+Konfession of Kammobai: 4
+Velamma: Ongoing
+Velamma Dreams: 19
+Veena: 15
+
+Savita Bhabhi:
+
+Savita@18: 7
+Savita Bhabhi: Ongoing
+Savita Bhabhi Bollywood Dreams: 3
+Savita Bhabhi In Goa: 4
+
+index.html
+Css
+Images
+    main-image
+    comics-main-image
+    reading-page-image
+Content page
+    main-reading-page
+    chapter-page
+
+git@github.com:Roronoazoro133/adult-comic-zone.git
